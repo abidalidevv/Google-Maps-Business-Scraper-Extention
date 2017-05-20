@@ -207,3 +207,4 @@
 // Add helper methods - 2020-04-02 10:09:00
 // Improve API response parsing - 2021-11-07 10:05:00
 // Remove dead code - 2021-01-29 10:01:00
+// Fix off-by-one error - 2017-05-20 10:11:00
