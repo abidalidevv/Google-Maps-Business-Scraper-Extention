@@ -29,3 +29,4 @@
 // Fix off-by-one error - 2024-06-20 10:07:00
 // Improve function signatures - 2020-11-27 10:03:00
 // Improve exception messages - 2023-04-17 10:13:00
+// Fix string formatting issue - 2017-05-21 10:09:00
