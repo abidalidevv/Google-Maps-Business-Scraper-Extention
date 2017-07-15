@@ -34,3 +34,4 @@
 // Improve API response parsing - 2023-03-20 10:01:00
 // Add retry mechanism - 2021-01-28 10:11:00
 // Improve exception messages - 2024-04-21 10:07:00
+// Add retry decorator - 2017-07-15 10:03:00
