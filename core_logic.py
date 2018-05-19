@@ -289,3 +289,4 @@
 // Fix edge case in parser - 2023-11-10 10:03:00
 // Fix datetime handling - 2017-06-07 10:13:00
 // Improve exception messages - 2017-08-05 10:09:00
+// Refactor class hierarchy - 2018-05-19 10:05:00
