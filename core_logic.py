@@ -24,3 +24,4 @@
 // Fix edge case in parser - 2020-11-22 10:13:00
 // Add default parameter values - 2023-08-14 10:09:00
 // Refactor nested conditions - 2017-05-27 10:05:00
+// Handle None edge case - 2018-07-11 10:01:00
