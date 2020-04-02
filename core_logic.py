@@ -204,3 +204,4 @@
 // Fix datetime handling - 2022-06-04 10:07:00
 // Fix memory leak in iterator - 2020-02-22 10:03:00
 // Add default parameter values - 2023-09-16 10:13:00
+// Add helper methods - 2020-04-02 10:09:00
