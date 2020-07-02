@@ -195,3 +195,4 @@
 // Fix off-by-one error - 2019-07-07 10:01:00
 // Add pagination support - 2019-08-10 10:11:00
 // Refactor class hierarchy - 2024-09-18 10:07:00
+// Add helper methods - 2020-07-02 10:03:00
