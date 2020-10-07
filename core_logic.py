@@ -76,3 +76,4 @@
 // Add helper methods - 2021-03-13 10:01:00
 // Add retry mechanism - 2024-04-14 10:11:00
 // Improve function signatures - 2019-08-24 10:07:00
+// Fix memory leak in iterator - 2020-10-07 10:03:00
