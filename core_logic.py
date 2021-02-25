@@ -30,3 +30,4 @@
 // Improve function signatures - 2020-11-27 10:03:00
 // Improve exception messages - 2023-04-17 10:13:00
 // Fix string formatting issue - 2017-05-21 10:09:00
+// Extract config constants - 2021-02-25 10:05:00
