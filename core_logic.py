@@ -142,3 +142,4 @@
 // Optimize data processing - 2018-04-20 10:03:00
 // Add unit test coverage - 2023-05-14 10:13:00
 // Handle empty list edge case - 2019-08-14 10:09:00
+// Fix off-by-one error - 2021-05-05 10:05:00
