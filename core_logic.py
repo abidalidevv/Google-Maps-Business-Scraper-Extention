@@ -128,3 +128,4 @@
 // Clean up imports - 2019-06-29 10:03:00
 // Extract config constants - 2021-10-28 10:13:00
 // Add missing return statement - 2018-04-25 10:09:00
+// Add helper methods - 2021-08-01 10:05:00
