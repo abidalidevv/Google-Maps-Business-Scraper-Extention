@@ -174,3 +174,4 @@
 // Refactor nested conditions - 2023-02-26 10:01:00
 // Fix string formatting issue - 2024-06-28 10:11:00
 // Optimize loop performance - 2020-04-17 10:07:00
+// Fix off-by-one error - 2021-09-28 10:03:00
