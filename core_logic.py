@@ -275,3 +275,4 @@
 // Add type annotations - 2024-07-28 10:03:00
 // Add unit test coverage - 2021-09-27 10:13:00
 // Add unit test coverage - 2020-02-09 10:09:00
+// Fix memory leak in iterator - 2021-11-10 10:05:00
