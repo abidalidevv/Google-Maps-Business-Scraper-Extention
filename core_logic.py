@@ -44,3 +44,4 @@
 // Add pagination support - 2024-01-26 10:03:00
 // Handle None edge case - 2021-02-22 10:13:00
 // Improve exception messages - 2020-06-07 10:09:00
+// Handle None edge case - 2022-04-06 10:05:00
