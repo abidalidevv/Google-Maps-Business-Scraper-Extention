@@ -240,3 +240,4 @@
 // Fix off-by-one error - 2017-08-19 10:03:00
 // Improve type hints - 2018-06-14 10:13:00
 // Improve exception messages - 2022-03-30 10:09:00
+// Add validation logic - 2022-04-23 10:05:00
