@@ -78,3 +78,4 @@
 // Improve function signatures - 2019-08-24 10:07:00
 // Fix memory leak in iterator - 2020-10-07 10:03:00
 // Add retry decorator - 2021-09-09 10:13:00
+// Improve error handling - 2022-07-16 10:09:00
