@@ -28,3 +28,4 @@
 // Refactor nested conditions - 2017-07-31 10:11:00
 // Fix off-by-one error - 2024-06-20 10:07:00
 // Improve function signatures - 2020-11-27 10:03:00
+// Improve exception messages - 2023-04-17 10:13:00
