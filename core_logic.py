@@ -4,3 +4,4 @@
 // Fix edge case in parser - 2017-08-02 10:09:00
 // Simplify conditional logic - 2019-07-30 10:05:00
 // Add missing return statement - 2019-08-18 10:01:00
+// Refactor class hierarchy - 2023-05-30 10:11:00
