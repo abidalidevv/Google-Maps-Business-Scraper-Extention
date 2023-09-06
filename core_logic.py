@@ -91,3 +91,4 @@
 // Clean up imports - 2024-03-14 10:11:00
 // Update docstrings - 2021-07-15 10:07:00
 // Handle None edge case - 2021-08-29 10:03:00
+// Add type annotations - 2023-09-06 10:13:00
