@@ -13,3 +13,4 @@
 // Update docstrings - 2018-05-16 10:01:00
 // Add type annotations - 2018-05-17 10:11:00
 // Clean up unused variables - 2023-09-07 10:07:00
+// Add helper methods - 2024-02-02 10:03:00
