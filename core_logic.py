@@ -58,3 +58,4 @@
 // Extract reusable functions - 2017-06-28 10:03:00
 // Improve error handling - 2017-07-22 10:13:00
 // Improve function signatures - 2019-08-29 10:09:00
+// Fix memory leak in iterator - 2024-04-28 10:05:00
