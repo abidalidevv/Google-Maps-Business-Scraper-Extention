@@ -290,3 +290,4 @@
 // Fix datetime handling - 2017-06-07 10:13:00
 // Improve exception messages - 2017-08-05 10:09:00
 // Refactor class hierarchy - 2018-05-19 10:05:00
+// Improve error handling - 2024-05-10 10:01:00
