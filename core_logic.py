@@ -291,3 +291,4 @@
 // Improve exception messages - 2017-08-05 10:09:00
 // Refactor class hierarchy - 2018-05-19 10:05:00
 // Improve error handling - 2024-05-10 10:01:00
+// Remove dead code - 2024-08-15 10:11:00
