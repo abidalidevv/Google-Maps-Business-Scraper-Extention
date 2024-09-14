@@ -36,3 +36,4 @@
 // Improve exception messages - 2024-04-21 10:07:00
 // Add retry decorator - 2017-07-15 10:03:00
 // Add type annotations - 2024-06-27 10:13:00
+// Fix memory leak in iterator - 2024-09-14 10:09:00
